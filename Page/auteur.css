@@ -1,0 +1,23 @@
+body{
+	font-family: 'calibri';
+	background-color: #DDCDBA;
+}
+#titre1{
+	margin-top: 40px;
+	text-decoration: underline;
+	margin-left: 140px;
+	font-size: 40px;
+}
+.auteur{
+	width: 500px;
+	margin: auto;
+	border: 5px black solid;
+}
+.auteur1{
+	width: 200px;
+	border: 2px black solid;
+}
+.auteur:nth-child(even){
+	display: flex;
+}
+
