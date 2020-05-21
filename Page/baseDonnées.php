@@ -5,6 +5,6 @@ try
 }
 catch (Exception $e)
 {
-        die('Erreur : ' . $e->getMessage());
+        die('Erreur : ' . $e->getMessage("La base de donnée n'es pas disponible"));
 }
 ?>
