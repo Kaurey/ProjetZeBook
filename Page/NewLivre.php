@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Formulaire - ZeBook</title>
-        <link rel="stylesheet" type="text/css" href="../menu.css">
+        <link rel="stylesheet" type="text/css" href="menu.css">
         <link rel="stylesheet" type="text/css" href="new_livre.css">
     </head>
 
@@ -11,7 +11,7 @@
         
         <!-- Bannière et menu du site -->
 
-        <?php include("../menu.php"); ?>
+        <?php include("menu.php"); ?>
 
     </header>
 
