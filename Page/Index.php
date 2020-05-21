@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Livres - ZeBook</title>
-		<link rel="stylesheet" type="text/css" href="../menu.css">
+		<link rel="stylesheet" type="text/css" href="menu.css">
 		<link rel="stylesheet" type="text/css" href="index.css"> 
 
 	</head>
@@ -12,7 +12,7 @@
 
 		<!-- Bannière et menu du site -->
 		
-		<?php include("../menu.php"); ?>
+		<?php include("menu.php"); ?>
 	
 	</header>
 	
