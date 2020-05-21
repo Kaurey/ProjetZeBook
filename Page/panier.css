@@ -1,0 +1,13 @@
+* {
+	margin: auto;
+}
+body{
+	font-family: 'calibri';
+	background-color: #DDCDBA;
+}
+.titre_panier {
+	margin-top: 40px;
+	text-decoration: underline;
+	margin-left: 140px;
+	font-size: 40px;
+}
