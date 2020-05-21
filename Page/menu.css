@@ -1,0 +1,46 @@
+* {
+    margin: auto;
+}
+@font-face{
+    font-family: "Sketch";
+    src: url(../Police/Sketch_Block.ttf);
+}
+header {
+    font-family: "Calibri";
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-image: url(images/fond.jpg);
+}
+.titre {
+    font-family: Sketch;
+    font-size: 80px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+/* Menu */
+
+nav .menu{
+    margin: auto;
+    list-style: none;
+}
+nav .menu li{
+    display: inline-block;
+    width: 150px;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+    line-height: 40px;
+    background-color: #B82708;
+    font-size: 16px;
+}
+nav .menu li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+nav .menu li :hover{
+    background-color: #8C0905;
+}

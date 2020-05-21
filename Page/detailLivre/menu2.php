@@ -3,7 +3,7 @@
 <!-- Menu -->
 
 <nav>
-    <ul>
+    <ul class="menu">
         <li><a href="../Index.php">Tous les livres</a></li>
         <li><a href="../Auteurs.php">Auteurs</a></li>
         <li><a href="../NewLivre.php">Nouveau livre</a></li>
