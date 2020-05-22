@@ -44,7 +44,10 @@
 					Edité par <?php echo $donnee ['libelle_editeur']; ?><br>
 					Genre : <?php echo $donnee ['libelle_genre']; ?>
 	   			</p><br><br>
-	   			<a href="detailLivre/detail.php?isbn=<?php echo $donnee['isbn'];?>">Voir plus</a>
+	
+	   				<a href="detail.php?isbn=<?php echo $donnee['isbn'];?>">Voir plus</a>
+	   			
+	   			
 	   		</div>
 		
 		<?php 
