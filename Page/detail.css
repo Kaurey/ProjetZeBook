@@ -1,0 +1,30 @@
+body{
+	font-family: 'calibri';
+	background-color: #DDCDBA;
+	text-align: center;
+}
+p{
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+img {
+	margin-top: 20px;
+	border: 1px solid black;
+}
+.ajouter {
+	color: white;
+	background-color: #B82708;
+	font-size: 20px;
+	border: none;
+	width: 200px;
+    padding: 10px 0px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.ajouter:hover {
+	background-color: #8C0905;
+}
+.ajouter a {
+	text-decoration: none;
+	color: white;
+}
