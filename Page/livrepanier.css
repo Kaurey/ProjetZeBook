@@ -1,0 +1,14 @@
+* {
+	margin: auto;
+}
+body {
+	font-family: 'calibri';
+	background-color: #DDCDBA;
+}
+p {
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 50px;
+}
