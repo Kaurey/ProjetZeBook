@@ -22,7 +22,7 @@
                 <ul class="menu">
                     <li><a href="Index.php">Tous les livres</a></li>
                     <li><a href="Auteurs.php">Auteurs</a></li>
-                    <li><a href="panier.php">Votre Panier</a></li>
+                    <li><a href="panier.php?idMembre=<?php echo $_SESSION['id'];?>">Votre Panier</a></li>
                     <li><a href="deconnexion.php">Déconnexion</a></li>
                 </ul>
             <?php 
